@@ -1,6 +1,6 @@
 # LinuxSecScripts
 
-#Security Audit Bash Script
+**Security Audit Bash Script**
 
 This is a bash script I created to automate basic system security checks. It's designed to be simple, fast and easy to use by making it perfect for students, sysadmins or anyone learning cybersecurity.
 
